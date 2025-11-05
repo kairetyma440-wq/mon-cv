@@ -41,29 +41,8 @@ body {
   font-size: 1.2em;
   color: #555;
 }
-/*
-.menu ul {
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-}
-
-.menu ul li a {
-  text-decoration: none;
-  color: #0077b6;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-
-.menu ul li a:hover {
-  color: #03045e;
-}
-*/
 
 
-
-  
 .skill {
   margin-bottom: 20px;
 }
@@ -95,7 +74,6 @@ body {
 .gauche{
     position: relative;
     width: 700px;
-    background-color: #f0f4f8;
     margin: 10px;
     box-shadow: 0 5px 10px ;
     padding: 2%;
@@ -157,34 +135,6 @@ button {
 }
 
 
-
-
-.entete {
-  background-color: #f0f4f8;
-  padding: 20px;
-  text-align: center;
-  border-bottom: 2px solid #ccc;
-}
-
-.entete .photo img {
-  border-radius: 50%;
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border: 3px solid #0077b6;
-}
-
-.identite h1 {
-  margin: 10px 0 5px;
-  font-size: 2em;
-  color: #023e8a;
-}
-
-.identite p {
-  font-size: 1.2em;
-  color: #555;
-}
-
 .menu ul {
   list-style: none;
   padding: 0;
@@ -204,6 +154,7 @@ button {
 .menu ul li a:hover {
   color: #03045e;
 }
+
 
 
 
